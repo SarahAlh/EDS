@@ -1,5 +1,5 @@
 <div align="center">
-<img width="555" alt="EDS Logo" src="https://github.com/SarahAlh/EDS/assets/78688276/115b44f7-0021-4453-83f5-e83fd3ec69c1">
+   <img width="666" src="Screenshots/EDS Logo.png"/>
 </div>
 
 ## Description
@@ -66,7 +66,7 @@ Our system offers a wide range of features designed to enhance your network secu
 ### Suricata and Slips Alerts Page
 This page contains the alerts from both Slips and Suricata
 <div align="left">
-<img width="666" alt="Screenshot 2023-10-16 at 2 00 32 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/a432fc3c-8424-49db-8e50-d3aef2211198">
+<img width="666" src="Screenshots/SuricataSlipsAlertsPage.png">
 </div>
 
 ### Anomaly Detection Page
@@ -74,21 +74,22 @@ On the Anomaly Detection page, there are three tabs:
 
 1. **Denial-Of-Service Attack Page:**
    <div align="left">
-<img width="666" alt="Screenshot 2023-10-16 at 2 14 42 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/3bbbcd6b-f928-4af6-b97d-14fc39e75933">
+<img width="666" src="Screenshots/DOSPage.png">
 </div>
 
 2. **Port Scanning Attack Page:**
       <div align="left">
-<img width="666" alt="Screenshot 2023-10-16 at 2 07 50 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/f2ed9d54-84f4-4cb5-a322-60a5882d702b">
+<img width="666" alt="Screenshot 2023-10-16 at 2 07 50 PM" src="Screenshots/PSPage.png">
 </div>
 
 3. **Privilege Escalation Attack:**
          <div align="left">
-<img width="666" alt="Screenshot 2023-10-16 at 2 09 07 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/a88375f5-75f1-4373-b304-7bddc0066ccb">
+<img width="666" src="Screenshots/PEPage.png">
 </div>
 
 ### Zeek Logs Page
 The Zeek Logs Page:
-         <div align="left">
-<img width="666" alt="Screenshot 2023-10-16 at 2 14 56 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/496f81e0-7b4b-4650-b4c2-b6324be0fe8e"></div>
+<div align="left">
+   <img width="666" src="Screenshots/ZeekPage.png">
+</div>
 
