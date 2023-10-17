@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="Screenshot 2023-10-09 at 4 22 39 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/b4855a29-9b38-4332-a7b7-d2b44743647c">
+<img width="555" alt="EDS Logo" src="https://github.com/SarahAlh/EDS/assets/78688276/115b44f7-0021-4453-83f5-e83fd3ec69c1">
 </div>
 
 ## Description
@@ -66,7 +66,7 @@ Our system offers a wide range of features designed to enhance your network secu
 ### Suricata and Slips Alerts Page
 This page contains the alerts from both Slips and Suricata
 <div align="left">
-<img alt="Screenshot 2023-10-09 at 4 22 39 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/ff4636ed-53df-453c-b35b-f427d81b0e4b">
+<img width="666" alt="Screenshot 2023-10-16 at 2 00 32 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/a432fc3c-8424-49db-8e50-d3aef2211198">
 </div>
 
 ### Anomaly Detection Page
@@ -74,20 +74,21 @@ On the Anomaly Detection page, there are three tabs:
 
 1. **Denial-Of-Service Attack Page:**
    <div align="left">
-<img alt="Screenshot 2023-10-09 at 4 22 39 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/3c8e3446-e1f2-46fd-9418-81054b78bd01">
+<img width="666" alt="Screenshot 2023-10-16 at 2 14 42 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/3bbbcd6b-f928-4af6-b97d-14fc39e75933">
 </div>
 
 2. **Port Scanning Attack Page:**
       <div align="left">
-<img alt="Screenshot 2023-10-09 at 4 22 39 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/4adc2894-ca52-4abe-aa38-e8283b6653fe">
+<img width="666" alt="Screenshot 2023-10-16 at 2 07 50 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/f2ed9d54-84f4-4cb5-a322-60a5882d702b">
 </div>
 
 3. **Privilege Escalation Attack:**
          <div align="left">
-<img alt="Screenshot 2023-10-09 at 4 22 39 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/d98569f4-89cd-4c9c-b1b8-6bbe4d57bf8a">
+<img width="666" alt="Screenshot 2023-10-16 at 2 09 07 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/a88375f5-75f1-4373-b304-7bddc0066ccb">
 </div>
 
 ### Zeek Logs Page
 The Zeek Logs Page:
-![Zeek Logs Page](https://github.com/SarahAlh/EDS/assets/78688276/d73dcba7-b565-4571-b258-4d6148680adc)
+         <div align="left">
+<img width="666" alt="Screenshot 2023-10-16 at 2 14 56 PM" src="https://github.com/SarahAlh/EDS/assets/78688276/496f81e0-7b4b-4650-b4c2-b6324be0fe8e"></div>
 
